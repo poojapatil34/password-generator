@@ -1,2 +1,2 @@
 # password-generator
-A random password generator app
+A random password generator web application that generates random password within the given length of strings
